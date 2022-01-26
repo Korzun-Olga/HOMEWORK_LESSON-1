@@ -1,0 +1,21 @@
+h2 {
+  color: red;
+  text-align: center;
+  font-family: Cambria;
+  font-size: x-large;
+  font-variant: small-caps;
+}
+
+img {
+  width: 600px;
+}
+
+figcaption {
+  color: black;
+  font-family: arial;
+  text-align: center;
+}
+
+.image-wrap {
+  display: inline-block;
+}
